@@ -13,9 +13,9 @@
     <string name="welcome_agree">De acuerdo</string>
     <string name="welcome_content">Bienvenido a TheoTown!
 
-\n\nEsta aplicación está actualmente en desarrollo. Tenga en cuenta que puede haber todavía algunos pequeños errores. Por favor no nos de mala calificación por esos pequeños problemas. Tenga en cuenta que es gratis.
+\n\nEsta aplicación está actualmente en desarrollo. Ten en cuenta que puede haber todavía algunos pequeños errores. Por favor no nos des una mala calificación por esos pequeños problemas. Recuerda que es gratis. 
 
-\n\n¿Te gusta esta aplicación? ¡Puedes apoyarnos compartiendola con tus amigos!
+\n\n¿Te gusta TheoTown? ¡Puedes apoyarnos compartiendola con tus amigos!
 
 \n\n¡Que te diviertas! :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -27,7 +27,7 @@
     <string name="createcity_sizebig">Grande</string>
     <string name="createcity_sizeother">Otro</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Estado: %1$s</string>
+    <string name="game_estate">Dinero actual: %1$s</string>
     <string name="game_rating">%1$,d</string>
     <string name="settings_resolutionlowlow">Muy bajo</string>
     <string name="settings_resolutionlow">Bajo</string>
@@ -40,28 +40,28 @@
     <string name="dialog_nocities_cmdback">Cancelar</string>
     <string name="dialog_nocities_cmdnewcity">Nueva Ciudad</string>
     <string name="settings_showads">Mostrar anuncios</string>
-    <string name="settings_drawcars">Ver autos</string>
+    <string name="settings_drawcars">Ver coches</string>
     <string name="settings_drawsmoke">Ver humo</string>
     <string name="settings_transparencybuildmode">Trasparencia en el modo construir</string>
-    <string name="settings_buildgrid">Grid en modo costruir</string>
-    <string name="settings_doublecardrawing">Ver doble coches</string>
+    <string name="settings_buildgrid">Tamero en modo costruir</string>
+    <string name="settings_doublecardrawing">Ver coches dobles</string>
     <string name="settings_drawwatersparkle">Ver chispas de agua</string>
     <string name="settings_drawmapedges">Dibujar bordes del mapa</string>
     <string name="settings_hideads_title">Quitar anuncios</string>
-    <string name="settings_hideads_text">Si realmente desea quitar los anuncios, sería bueno que nos apoyara diciéndole a sus amigos sobre la aplicación.
+    <string name="settings_hideads_text">Si realmente deseas quitar los anuncios, estaría bien que nos apoyaras enseñándole a tus amigos la aplicación.
 
 \n\n¿Estás seguro?</string>
     <string name="settings_hideads_yes">Estoy seguro</string>
     <string name="settings_hideads_no">Cancelar</string>
-    <string name="loadcity_errordialog_title">Error de carga</string>
-    <string name="loadcity_errordialog_text">No se puede cargar la ciudad, el archivo parece estar dañado.\n\nSorry.</string>
+    <string name="loadcity_errordialog_title">Error al cargar</string>
+    <string name="loadcity_errordialog_text">No se puede cargar la ciudad, el archivo parece estar dañado.\n\nPerdón :(</string>
     <string name="loadcity_errordialog_cmdcancel">Cancelar</string>
     <string name="dialog_screenshot_title">Captura de pantalla</string>
     <string name="dialog_screenshot_text">La imagen se ha guardado como %1$s.</string>
     <string name="dialog_screenshot_cmdok">Ok</string>
     <string name="draftselector_titleparks">Parques</string>
     <string name="draftselector_titlepublics">Público</string>
-    <string name="draftselector_titleenergy">Energía</string>
+    <string name="draftselector_titleenergy">Electricidad</string>
     <string name="draftselector_titlewater">Agua</string>
     <string name="draftselector_titleschool">Educación</string>
     <string name="draftselector_titlehealth">Salud</string>
@@ -72,7 +72,7 @@
     <string name="draftselector_monthlyprice">Precio mensual: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Eliminar</string>
-    <string name="loadcity_deletedialog_text">¿Realmente desea eliminar la ciudad?</string>
+    <string name="loadcity_deletedialog_text">¿Realmente deseas eliminar la ciudad?</string>
     <string name="loadcity_deletedialog_title">Eliminar Ciudad</string>
     <string name="loadcity_deletedialog_cmdcancel">Cancelar</string>
     <string name="loadcity_deletedialog_cmddelete">Borrar</string>
@@ -84,18 +84,18 @@
     <string name="savewaiting_title">Guardando</string>
     <string name="loadwaiting_title">Cargando ciudad</string>
     <string name="dialog_invalidcityname_title">Nombre inválido</string>
-    <string name="dialog_invalidcityname_text">Utilice otro nombre para la ciudad. No se permite que esté vacío.</string>
+    <string name="dialog_invalidcityname_text">Ponle un nombre a la ciudad. No puede estar en blanco.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Mapa grande</string>
-    <string name="dialog_hugesize_text">Este tamaño es sólo experimental y puede que no funcione en su dispositivo. ¿Realmente necesita un mapa enorme?</string>
+    <string name="dialog_hugesize_text">Este tamaño es sólo experimental y puede que no funcione en tu dispositivo. ¿Realmente necesitas un mapa enorme?</string>
     <string name="dialog_hugesize_cmdyes">Si</string>
     <string name="dialog_hugesize_cmdno">No</string>
     <string name="draft_church00_title">Iglesia</string>
-    <string name="draft_church00_text">Cada pueblo pequeño necesita una iglesia.</string>
+    <string name="draft_church00_text">Una iglesia con un mayor rango para sus fieles.</string>
     <string name="draft_townhall00_title">Palacio municipal</string>
-    <string name="draft_townhall00_text">Una ciudad necesita un palacio munipal. A los habitantes les gustará.</string>
+    <string name="draft_townhall00_text">Funciona como un ayuntamiento, pero tiene un mayor alcance.</string>
     <string name="draft_wire00_title">Tendido Electrico</string>
-    <string name="draft_wire00_text">Utilice el tendido electrico para conectar su ciudad con sus plantas de energía.</string>
+    <string name="draft_wire00_text">Peemitee llevar la electricidad a lugares lejanos.</string>
     <string name="draft_windturbine00_title">Turbina eólica</string>
     <string name="draft_windturbine00_text">Una turbina eólica hace ruido pero no genera contaminación.</string>
     <string name="draft_coalplant00_title">Planta de carbón</string>
@@ -103,21 +103,21 @@
     <string name="draft_solarpanels00_title">Paneles solares</string>
     <string name="draft_solarpanels00_text">Los paneles solares son buenos para el medio ambiente.</string>
     <string name="draft_park00_title">Pequeño parque de flores</string>
-    <string name="draft_park00_text">A los habitantes les gustará.</string>
+    <string name="draft_park00_text">¡Cuidado con el polen!.</string>
     <string name="draft_park01_title">Parque pequeño</string>
-    <string name="draft_park01_text">A los habitantes les gustará.</string>
+    <string name="draft_park01_text">Un parquecito donde pasear.</string>
     <string name="draft_park02_title">Parque pequeño de cespéd</string>
-    <string name="draft_park02_text">A los habitantes les gustará.</string>
+    <string name="draft_park02_text">Un trocito de campo en medio de la ciudad.</string>
     <string name="draft_park03_title">Parque pequeño</string>
     <string name="draft_waterfountain00_title">Fuente de agua</string>
-    <string name="draft_waterfountain00_text">A los habitantes les gustará.</string>
+    <string name="draft_waterfountain00_text">No te acerques, que salpica.</string>
     <string name="draft_bigpark00_title">Parque grande</string>
-    <string name="draft_bigpark00_text">A los habitantes les gustará el parque grande.</string>
+    <string name="draft_bigpark00_text">El lugar perfecto para la tarde perfecta.</string>
     <string name="draft_park03_text">A los habitantes les gustará.</string>
-    <string name="draft_medic00_title">Doctor</string>
+    <string name="draft_medic00_title">Centro de salud</string>
     <string name="draft_medic00_text">Aquí los habitantes pueden ver a un médico.</string>
     <string name="draft_medic01_title">Hospital</string>
-    <string name="draft_medic01_text">Los habitantes se sienten más seguros cerca de un hospital.</string>
+    <string name="draft_medic01_text">Mayor alcance, mayor personal, mayor calidad.</string>
     <string name="draft_school00_title">Escuela primaria</string>
     <string name="draft_school00_text">Un lugar donde los niños aprenden cosas.</string>
     <string name="draft_school01_title">Escuela secundaria</string>
@@ -125,14 +125,14 @@
     <string name="draft_museum00_title">Museo</string>
     <string name="draft_museum00_text">Un lugar donde las personas mayores aprenden cosas.</string>
     <string name="draft_pipe00_title">Tubería</string>
-    <string name="draft_pipe00_text">Las tuberías se pueden utilizar para suministrar el agua a sus edificios.</string>
+    <string name="draft_pipe00_text">Toda casa necesita agua.</string>
     <string name="draft_waterpump00_title">Bomba de agua</string>
-    <string name="draft_waterpump00_text">Proporciona agua para sus edificios.</string>
+    <string name="draft_waterpump00_text">Coge el agua de los pozos subterráneos.</string>
     <string name="draft_watertower00_title">Torre de agua</string>
-    <string name="draft_watertower00_text">Proporciona agua para los edificios.</string>
+    <string name="draft_watertower00_text">Un tanque de agua en el aire.</string>
     <string name="settings_areazonetool">Utilizar la herramienta zona de área</string>
     <string name="createcity_gamemode">Modo de juego:</string>
-    <string name="gamemode_sandbox">Sandbox</string>
+    <string name="gamemode_sandbox">Libre</string>
     <string name="gamemode_easy">Facil</string>
     <string name="gamemode_middle">Medio</string>
     <string name="gamemode_hard">Dificil</string>
@@ -163,7 +163,7 @@
     <string name="topic_cake">¡El pastel es una mentira!</string>
     <string name="topic_panic">No te asustes ;)</string>
     <string name="draft_bigschool00_title">Esc. primaria grande</string>
-    <string name="draft_bigschool00_text">Un lugar donde los niños pueden aprender cosas.</string>
+    <string name="draft_bigschool00_text">Una escuela primaria con un alcance enorme.</string>
     <string name="draft_treepark00_title">Parque de árboles</string>
     <string name="draft_treepark00_text">Un pequeño parque con árboles. A sus habitantes les gustará.</string>
     <string name="menu_premium">Premium</string>
@@ -180,7 +180,7 @@
     <string name="budget_park">Parques</string>
     <string name="budget_education">Educación</string>
     <string name="budget_firebrigade">Brigada de bomberos</string>
-    <string name="budget_police">Policias</string>
+    <string name="budget_police">Policia</string>
     <string name="budget_award">Regalos</string>
     <string name="budget_energy">Energía</string>
     <string name="budget_water">Agua</string>
